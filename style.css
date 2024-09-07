@@ -115,7 +115,7 @@ footer {
     width: 100%; /* Largura total da página */
     bottom: 0; /* Alinha ao fundo da página */
     font-size: 1rem; /* Tamanho da fonte */
-    position: relative;
+    position: static;
 }
 
 @media (max-width: 768px) {
