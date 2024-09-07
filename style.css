@@ -9,6 +9,8 @@ body {
     flex-direction: column; /* Alinha os itens na vertical */
     align-items: center; /* Centraliza os itens horizontalmente */
     justify-content: center; /* Centraliza os itens verticalmente */
+    margin-left: 15px;
+    margin-right: 15px;
 }
 
 /* Estiliza a div onde está o título da página */
