@@ -13,6 +13,10 @@ Este projeto tem como objetivo fornecer um guia rápido e fácil de usar para de
 * **Markdown:** Formatação do arquivo README.
 
 ## Como Usar
+
+Acesse pelo link: https://imersao-dev-alura-jet.vercel.app/
+ou
+
 1. **Clone o repositório:**
    ```bash
    git clone https://seu-repositorio.git
