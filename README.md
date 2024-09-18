@@ -53,4 +53,4 @@ Utilizar um framework de front-end: Simplificar o desenvolvimento e adicionar ma
 Contribuições são bem-vindas! Se você encontrar algum bug ou tiver alguma sugestão, por favor, abra um issue ou faça um pull request.
 
 ## Licença
-Este projeto está licenciado sob a licença [Escolha a licença desejada, por exemplo, MIT].
+Este projeto está licenciado sob a licença MIT.
